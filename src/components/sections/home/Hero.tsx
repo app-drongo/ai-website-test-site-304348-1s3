@@ -16,7 +16,7 @@ const DEFAULT_HERO = {
   showIcon: true,
   iconUrl: '',
   iconAlt: 'Platform logo',
-  backgroundImage: 'https://images.unsplash.com/photo-1551650975-87deedd944c3?q=80&w=1920&auto=format&fit=crop'',
+  backgroundImage: 'https://images.unsplash.com/photo-1551650975-87deedd944c3?q=80&w=1920&auto=format&fit=crop',
   backgroundImageAlt: 'Modern tech workspace with developers collaborating',
   showBackgroundImage: true,
   backgroundOverlay: true,
